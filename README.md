@@ -8,8 +8,8 @@ De forma muito geral, feedback é qualquer informação que alguém emite sobre 
 
 Quando damos um feedback para outra pessoa nós estamos fortalecendo as relações e vinculos com outras pessoas.
 
-Estou te vendo!</p>
-Sei que está fazendo seu melhor!</p>
-Você é importante para mim!</p>
+Estou te vendo!<br>
+Sei que está fazendo seu melhor!<br>
+Você é importante para mim!<br>
 
 ## Ser reconhecido nos motiva, nos impulsiona e nos dá energia.
