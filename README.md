@@ -16,9 +16,9 @@ Quando damos um feedback para outra pessoa nós estamos fortalecendo as relaçõ
 - Sei que está fazendo seu melhor!
 - Você é importante para mim!
 
-# **** Nunca dê um feedback se estiver nervoso. ****
+### Ser reconhecido nos motiva, nos impulsiona e nos dá energia.
 
-## Ser reconhecido nos motiva, nos impulsiona e nos dá energia.
+# **** Nunca dê um feedback se estiver nervoso. ****
 
 ## Onde deve ser dado o feedback?
 
