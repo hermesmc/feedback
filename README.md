@@ -30,7 +30,7 @@ Existe um conselho que diz: "Elogie em publico e corrija em particular". Realmen
 - Orientação
 - Avaliação
 
-Vantagens de receber bem os feedbacks:
+## Vantagens de receber bem os feedbacks:
 - Relacionamentos evoluem
 - auto-estima mais forte
 - Aprendizado aumenta
@@ -38,5 +38,4 @@ Vantagens de receber bem os feedbacks:
 # Evite o feedback genérico. 
 Aquele que é dado de forma ampla sem maiores descrições. Por exemplo: "Renato você foi muito bobo com o cliente". Ok, mas com relação a que? Como ele deveria se comportar? O feedback deve ter um maior nivel de descrição.
 
-# Não se esqueça: feedback é um processo de mão dupla. Como se trata de um processo de comunicação, o feedback deve permitir 
-que quem esteja recebendo possa emitir sua opinião sobre.
+# Não se esqueça: feedback é um processo de mão dupla. Como se trata de um processo de comunicação, o feedback deve permitir que quem esteja recebendo possa emitir sua opinião sobre.
